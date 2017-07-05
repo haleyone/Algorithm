@@ -14,7 +14,7 @@ import java.util.Scanner;
 public class ErrorRecord {
      
 	public void test2(){
-         
+           
         Scanner in = new Scanner(System.in);
          
         Map<String, Integer> map = new LinkedHashMap<String, Integer>();//LinkedHashMap¶ø²»ÊÇhashmap£¡£¡£¡£¡£¡
