@@ -4,7 +4,9 @@ import java.util.Scanner;
 
 public class BestGrade {
 	public static void main(String[] args) {
-		test();
+//		test();
+		ErrorRecord e = new ErrorRecord();
+		e.test2();
 	}
 
 	private static void test() {
